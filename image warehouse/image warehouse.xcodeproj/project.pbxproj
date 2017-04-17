@@ -14,6 +14,8 @@
 		CE6E5C1F1E9CBF81002C720E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE6E5C1E1E9CBF81002C720E /* Assets.xcassets */; };
 		CE6E5C221E9CBF81002C720E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE6E5C201E9CBF81002C720E /* LaunchScreen.storyboard */; };
 		CE6E5C2A1E9CBF8B002C720E /* spirngAnimation.gif in Resources */ = {isa = PBXBuildFile; fileRef = CE6E5C291E9CBF8B002C720E /* spirngAnimation.gif */; };
+		CEFF08E31EA49ECF00CC90C7 /* 弹簧动画.gif in Resources */ = {isa = PBXBuildFile; fileRef = CEFF08E21EA49ECF00CC90C7 /* 弹簧动画.gif */; };
+		CEFF08E51EA49ED400CC90C7 /* 衰减动画.gif in Resources */ = {isa = PBXBuildFile; fileRef = CEFF08E41EA49ED400CC90C7 /* 衰减动画.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		CE6E5C211E9CBF81002C720E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE6E5C231E9CBF81002C720E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE6E5C291E9CBF8B002C720E /* spirngAnimation.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = spirngAnimation.gif; sourceTree = "<group>"; };
+		CEFF08E21EA49ECF00CC90C7 /* 弹簧动画.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "弹簧动画.gif"; sourceTree = "<group>"; };
+		CEFF08E41EA49ED400CC90C7 /* 衰减动画.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "衰减动画.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				CE6E5C191E9CBF81002C720E /* ViewController.m */,
 				CE6E5C1B1E9CBF81002C720E /* Main.storyboard */,
 				CE6E5C291E9CBF8B002C720E /* spirngAnimation.gif */,
+				CEFF08E21EA49ECF00CC90C7 /* 弹簧动画.gif */,
+				CEFF08E41EA49ED400CC90C7 /* 衰减动画.gif */,
 				CE6E5C1E1E9CBF81002C720E /* Assets.xcassets */,
 				CE6E5C201E9CBF81002C720E /* LaunchScreen.storyboard */,
 				CE6E5C231E9CBF81002C720E /* Info.plist */,
@@ -142,6 +148,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE6E5C221E9CBF81002C720E /* LaunchScreen.storyboard in Resources */,
+				CEFF08E31EA49ECF00CC90C7 /* 弹簧动画.gif in Resources */,
+				CEFF08E51EA49ED400CC90C7 /* 衰减动画.gif in Resources */,
 				CE6E5C1F1E9CBF81002C720E /* Assets.xcassets in Resources */,
 				CE6E5C2A1E9CBF8B002C720E /* spirngAnimation.gif in Resources */,
 				CE6E5C1D1E9CBF81002C720E /* Main.storyboard in Resources */,
@@ -318,6 +326,7 @@
 				CE6E5C281E9CBF82002C720E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
